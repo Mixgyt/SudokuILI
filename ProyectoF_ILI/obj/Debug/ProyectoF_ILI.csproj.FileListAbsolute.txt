@@ -1,0 +1,8 @@
+C:\Users\MINED\source\repos\ProyectoF_ILI\ProyectoF_ILI\bin\Debug\ProyectoF_ILI.exe.config
+C:\Users\MINED\source\repos\ProyectoF_ILI\ProyectoF_ILI\bin\Debug\ProyectoF_ILI.exe
+C:\Users\MINED\source\repos\ProyectoF_ILI\ProyectoF_ILI\bin\Debug\ProyectoF_ILI.pdb
+C:\Users\MINED\source\repos\ProyectoF_ILI\ProyectoF_ILI\obj\Debug\ProyectoF_ILI.csproj.AssemblyReference.cache
+C:\Users\MINED\source\repos\ProyectoF_ILI\ProyectoF_ILI\obj\Debug\ProyectoF_ILI.csproj.SuggestedBindingRedirects.cache
+C:\Users\MINED\source\repos\ProyectoF_ILI\ProyectoF_ILI\obj\Debug\ProyectoF_ILI.csproj.CoreCompileInputs.cache
+C:\Users\MINED\source\repos\ProyectoF_ILI\ProyectoF_ILI\obj\Debug\ProyectoF_ILI.exe
+C:\Users\MINED\source\repos\ProyectoF_ILI\ProyectoF_ILI\obj\Debug\ProyectoF_ILI.pdb
